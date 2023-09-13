@@ -8,4 +8,5 @@
 - [Github](https://github.com/SantiDEV2)
 - [Mail](cdmx2162@amerike.edu.mx)
 
+- [Parcial2Practica5](/Parcial2-Practica1/HTML/index.html)
 
